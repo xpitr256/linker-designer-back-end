@@ -30,7 +30,7 @@
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.1",
     "node-powershell": "^4.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "python-shell": "^2.0.2",
     "swagger-ui-express": "^4.1.4",
     "throng": "^5.0.0"
